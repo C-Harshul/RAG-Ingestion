@@ -1,0 +1,6 @@
+
+    Python is a high-level, interpreted programming language known for its clear syntax and readability.
+    It is widely used in various domains, including web development, data analysis, artificial intelligence,
+    and scientific computing. Python's design philosophy emphasizes code readability, allowing developers to express
+    concepts in fewer lines of code compared to languages like C++ or Java.
+    
